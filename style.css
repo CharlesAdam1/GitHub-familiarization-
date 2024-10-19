@@ -13,8 +13,8 @@ h1 {
 }
 
 button {
-    background-color: brown;
-    color: darkblue;
+    background-color: pink;
+    color: black;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
@@ -30,4 +30,8 @@ ol {
 ol li:hover {
     background-color: antiquewhite;
 
+}
+
+section:hover {
+    background-color: white;
 }
